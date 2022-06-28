@@ -1,24 +1,9 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "This is item num 1 coming from the back end"
-    },
-    {
-      "id": 2,
-      "rating": 8,
-      "text": "This is item num 2 coming from the back end"
-    },
-    {
-      "id": 3,
-      "rating": 5,
-      "text": "This is item num 3 coming from the back end"
-    },
-    {
-      "rating": "9",
-      "text": "New feedback item",
-      "id": 5
+      "text": "your mixtape is cheeks. a lil better",
+      "rating": 2,
+      "id": 6
     }
   ]
 }
